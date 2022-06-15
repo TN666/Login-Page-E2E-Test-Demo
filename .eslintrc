@@ -1,0 +1,12 @@
+{
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "standard"
+    ],
+    "globals": {
+      "fixture": "readonly",
+      "test": "readonly"
+    }
+}
